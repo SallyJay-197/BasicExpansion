@@ -3,5 +3,5 @@
     "terrainsCanBeBuiltOn":["Land"],
     "stats": {"gold":5},
     "turnsToBuild":0,
-    "uniques": ["Does not need removal of [Terrain features]"]
+    "uniques": ["Does not need removal of [Terrain Feature]"]
 }]
