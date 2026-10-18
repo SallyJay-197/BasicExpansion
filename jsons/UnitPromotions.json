@@ -1,0 +1,7 @@
+[{
+    "name": "Underground",
+    "column": 0,
+    "row": 0,
+    "unitTypes": ["Land"],
+    "uniques": ["Ignores terrain cost"]
+}]
