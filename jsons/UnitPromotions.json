@@ -1,0 +1,7 @@
+[{
+    "name": "InSubway",
+    "column": 0,
+    "row": 0,
+    "unitTypes": "Land",
+    "uniques": ["[all] gains [3] movement <upon entering a [Subway] tile>"]
+}]
