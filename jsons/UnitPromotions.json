@@ -2,5 +2,6 @@
     "name": "Underground",
     "column": 0,
     "row": 4,
-    "uniques": ["Ignores terrain cost"]
+    "uniques": ["Ignores terrain cost"],
+    "UnitTypes": "Land"
 }]
