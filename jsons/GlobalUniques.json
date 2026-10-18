@@ -2,7 +2,6 @@
     "name": "Global uniques",
     "unitUniques":["[This Unit] gains [3] movement <upon entering a [subway] tile>",
         "[This Unit] gains the [Underground] promotion <upon entering a [subway] tile>",
-        /*"[This Unit] loses the [Underground] promotion <upon entering a [non-[{subway} {Subway Entry}]] tile>"
-   */ ]
+    ]
 
 }
