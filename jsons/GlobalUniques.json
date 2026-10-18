@@ -1,4 +1,6 @@
 {
     "name": "Global uniques",
-    "uniques": ["[+6 Happiness] [in your cities]"]
+    "uniques": [
+"[+6 Happiness] [in your cities]"
+]
 }
