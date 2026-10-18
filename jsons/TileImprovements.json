@@ -3,5 +3,5 @@
     "terrainsCanBeBuiltOn":["Land"],
     "stats": {"gold":5},
     "turnsToBuild":0,
-    "uniques": ["Does not need removal of [Hill]",["Does not need removal of [Jungle]",["Does not need removal of [Forest]",["Does not need removal of [Marsh]",["Does not need removal of [Oasis]",["Does not need removal of [Fallout]",["Does not need removal of [Atoll]",["Does not need removal of [Flood plains]",["Does not need removal of [Ice]"],
+    "uniques": ["Does not need removal of [Hill]","Does not need removal of [Jungle]","Does not need removal of [Forest]","Does not need removal of [Marsh]","Does not need removal of [Oasis]","Does not need removal of [Fallout]","Does not need removal of [Atoll]","Does not need removal of [Flood plains]","Does not need removal of [Ice]"]
 }]
