@@ -1,0 +1,6 @@
+[{
+    "name":"subway",
+    "terrainsCanBeBuiltOn":["Land"],
+    "stats": {"gold":5},
+    "turnsToBuild":0
+}]
