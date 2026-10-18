@@ -13,8 +13,7 @@
         "Does not need removal of [Flood plains]",
         "Does not need removal of [Ice]",
         "Can be built outside your borders",
-        "Must be next to [subway]",
-        "Must be next to [Subway Entry]"
+        "Must be next to [{subway} {Subway Entry}]"
     ]
 },
 {
