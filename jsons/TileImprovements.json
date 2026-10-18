@@ -12,7 +12,7 @@
         "Does not need removal of [Atoll]",
         "Does not need removal of [Flood plains]",
         "Does not need removal of [Ice]",
-        "Can be built outside your borders"
+        "Can be built outside your borders"]
 },
 {
     "name":"Subway Entry",
