@@ -1,4 +1,4 @@
 {
     "name": "Global Uniques",
-"unitUniques": ["[This Unit] gains 1 movement <upon entering a [Subway] tile>"]
+    "uniques": ["[+6 Happiness] [in your cities]"]
 }
