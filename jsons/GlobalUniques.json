@@ -1,4 +1,4 @@
 {
     "name": "Global uniques",
-    "unitUniques":["[all] gains [1] movement <upon entering a [Subway] tile>"]
+    "unitUniques":["[all] gains 1 movement <upon entering a [Subway] tile>"]
 }
