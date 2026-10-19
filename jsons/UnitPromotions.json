@@ -2,6 +2,7 @@
     "name": "Underground",
     "column": 0,
     "row": 4,
-    "uniques": ["Ignores terrain cost"],
+    "uniques": ["Ignores terrain cost",
+        "[This Unit] gains [3] movement <upon entering a [subway] tile>",],
     "UnitTypes": ["Land"]
 }]
