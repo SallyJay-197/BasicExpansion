@@ -3,7 +3,11 @@
     "column": 0,
     "row": 4,
     "uniques": ["Ignores terrain cost",
-        "[This Unit] gains [3] movement <upon entering a [subway] tile>"
+        "[This Unit] gains [3] movement <upon entering a [subway] tile>",
+        "May heal outside of friendly territory",
+        "Invisible to others",
+        "Invisible to non-adjacent units",
+        "Can see invisible [Underground] units"
     ],
     "UnitTypes": ["Land"]
 }]
