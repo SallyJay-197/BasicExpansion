@@ -7,7 +7,8 @@
         "May heal outside of friendly territory",
         "Invisible to others",
         "Invisible to non-adjacent units",
-        "Can see invisible [Underground] units"
+        "Can see invisible [Underground] units",
+        "[+50]% Strength for enemy [Land] units in adjacent [subway] tiles"
     ],
     "UnitTypes": ["Land"]
 }]
